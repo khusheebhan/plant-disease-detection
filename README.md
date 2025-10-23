@@ -2,6 +2,9 @@
 
 A deep learning-based model that detects plant diseases from leaf images using CNN and OpenCV.
 
+📦 Model and dataset files:
+Download from: https://drive.google.com/drive/folders/1eyuMDRnYFr_ProFQ6Zff_-Bmmh9Ei2Zk?usp=sharing)
+
 ## 🚀 Tech Stack
 - Python
 - TensorFlow
